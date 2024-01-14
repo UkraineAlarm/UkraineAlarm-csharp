@@ -1,4 +1,4 @@
-# UkraineAlarm - the C# library for the Ukraine Alert API
+# UkraineAlarm - the C# library for the [Ukraine Alert API](https://api.ukrainealarm.com/)
 
 - API version: 3.0
 - SDK version: 1.0.0
